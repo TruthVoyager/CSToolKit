@@ -1,11 +1,11 @@
 //Override the "ToString" methos of the base object class to return information that would allow you to more easily identify an instance while debugging. 
-public class TestingGround
+public class OverridingTheToStringOfAnInstance
 {
-    TestingGround() : this(0)
+    OverridingTheToStringOfAnInstance() : this(0)
     {
 
     }
-    TestingGround(int ObjectId)
+    OverridingTheToStringOfAnInstance(int ObjectId)
     {
         ObjectId = ObjectId;
     }
