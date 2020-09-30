@@ -1,0 +1,12 @@
+Need to consider way I can implement a base classe. 
+The base class could hold functions for saving, deleteing, and editing similar objects.
+
+Need to look into the concept of 'enum's 
+ - seems to have similar sintax to a class, just replace class with enum. 
+ - seems to be some sort of stat machine containing different possible statuses.
+
+Consider the ways I can use abstract classes. 
+An abstract class can contain incomplete abstract methods which can be overridden. 
+I am not sure how this would be more helpfull than just having the method in the derived class. 
+Seeing that I will have to build out the logic of the method in the derived class anyway...
+
