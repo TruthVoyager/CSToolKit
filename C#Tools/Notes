@@ -10,3 +10,7 @@ An abstract class can contain incomplete abstract methods which can be overridde
 I am not sure how this would be more helpfull than just having the method in the derived class. 
 Seeing that I will have to build out the logic of the method in the derived class anyway...
 
+Consider how to use a common library to store and reuse a timer component as an extension method.
+https://app.pluralsight.com/course-player?clipId=b8e64ce5-15cb-4149-8fb7-ee3bb67701b0 
+https://app.pluralsight.com/course-player?clipId=6565f62f-70f0-422e-bc20-a736c1fdac35 
+
