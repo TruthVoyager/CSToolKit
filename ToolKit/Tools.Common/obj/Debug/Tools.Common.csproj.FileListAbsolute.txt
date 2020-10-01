@@ -1,0 +1,6 @@
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\bin\Debug\Tools.Common.dll
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\bin\Debug\Tools.Common.pdb
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\obj\Debug\Tools.Common.csprojAssemblyReference.cache
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\obj\Debug\Tools.Common.csproj.CoreCompileInputs.cache
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\obj\Debug\Tools.Common.dll
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\Tools.Common\obj\Debug\Tools.Common.pdb

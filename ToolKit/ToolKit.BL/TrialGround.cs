@@ -14,8 +14,18 @@ namespace ToolKit.BL
         }
 
         public int ObjectId;
-        public string ObjectName { get; set; }
+        public string ObjName { get; set; }
+        public string ObjLastName { get; set; }
+        public string FullName { get
+            {
+                if (!string.IsNullOrWhiteSpace(ObjLastName))
+                    return ObjName + ", " + ObjLastName;
+                else
+                    return ObjName;
+            }
+        }
+        public override string ToString() => ObjName;
 
-        public override string ToString() => ObjectName;
+
     }
 }
