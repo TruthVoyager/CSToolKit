@@ -1,0 +1,6 @@
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\bin\Debug\ToolKit.BL.dll
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\bin\Debug\ToolKit.BL.pdb
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\obj\Debug\ToolKit.BL.csprojAssemblyReference.cache
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\obj\Debug\ToolKit.BL.csproj.CoreCompileInputs.cache
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\obj\Debug\ToolKit.BL.dll
+C:\Users\christian.jones\Documents\GitHub\CSToolKit\ToolKit\ToolKit.BL\obj\Debug\ToolKit.BL.pdb
