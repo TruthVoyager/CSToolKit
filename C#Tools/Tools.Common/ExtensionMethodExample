@@ -1,0 +1,15 @@
+static class ExtensionMethodExample
+{
+    
+    public static string InsertSpaces(this string source){
+        string result = string.Empty;
+        if(!String.IsNullOrWhiteSpace(source)){
+            foreach (char letter in source)
+            {
+              if(letter.isUpper()){
+                  
+              }  
+            }
+        }
+    }
+}
