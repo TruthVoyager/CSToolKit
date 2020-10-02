@@ -2,13 +2,13 @@ namespace ToolKit.BL
 {
     //Override the "ToString" methods of the base object class to return information that would allow you to more easily 
     //identify an instance while debugging. 
-    public class TrialGround
+    public class OverrideToStringOfBaseClass
     {
-        public TrialGround() : this(0)
+        public OverrideToStringOfBaseClass() : this(0)
         {
 
         }
-        public TrialGround(int objectId)
+        public OverrideToStringOfBaseClass(int objectId)
         {
             ObjectId = objectId;
         }

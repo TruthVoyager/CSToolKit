@@ -42,7 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InterfaceExample.cs" />
-    <Compile Include="TrialGround.cs" />
+    <Compile Include="LINQQueryExamp.cs" />
+    <Compile Include="OverrideToStringOfBaseClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

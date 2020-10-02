@@ -13,7 +13,7 @@ namespace ToolKit.BLTest
         public void FullName()
         {
             //Arrange
-            TrialGround trial = new TrialGround()
+            OverrideToStringOfBaseClass trial = new OverrideToStringOfBaseClass()
             {
                 ObjName = "Truth",
                 ObjLastName = "Voyager"
@@ -29,7 +29,7 @@ namespace ToolKit.BLTest
         public void FullNameWithoutLastName()
         {
             //Arrange
-            TrialGround trial = new TrialGround()
+            OverrideToStringOfBaseClass trial = new OverrideToStringOfBaseClass()
             {
                 ObjName = "Truth"
             };
